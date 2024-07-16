@@ -27,7 +27,7 @@
             navbar.style.backgroundColor = ""; // Reset inline background color for navbar
             themeBtn.innerText = "Dark";
             h1.style.color = "black";
-            span.style.color = "dark"
+            span.style.color = "black"
             theme = 0;
         }
     });
